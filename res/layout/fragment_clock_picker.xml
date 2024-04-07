@@ -50,7 +50,7 @@
             <androidx.recyclerview.widget.RecyclerView
                 android:id="@+id/options_container"
                 android:layout_width="match_parent"
-                android:layout_height="@dimen/options_container_height"
+                android:layout_height="@dimen/options_container_height_double"
                 android:layout_gravity="center_horizontal"
                 android:layout_marginTop="10dp"
                 app:layout_constraintBottom_toTopOf="@id/placeholder"
@@ -62,7 +62,7 @@
             <Space
                 android:id="@+id/placeholder"
                 android:layout_width="match_parent"
-                android:layout_height="@dimen/min_taptarget_height"
+                android:layout_height="0dp"
                 app:layout_constraintBottom_toTopOf="@id/apply_button"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintHeight_min="@dimen/min_taptarget_height"
