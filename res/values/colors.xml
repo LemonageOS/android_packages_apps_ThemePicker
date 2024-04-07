@@ -52,4 +52,6 @@
     <color name="divider_color">@color/black_14_alpha</color>
 
     <color name="cover_title_color">@color/black_87_alpha</color>
+
+    <color name="bottom_navigation_bar">@color/bottom_bar_background_color</color>
 </resources>

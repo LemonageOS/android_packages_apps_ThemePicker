@@ -41,4 +41,6 @@
     <color name="divider_color">@color/white_14_alpha</color>
 
     <color name="cover_title_color">@color/white_88_alpha</color>
+
+    <color name="bottom_navigation_bar">@*android:color/monet_bottom_navigation_bar</color>
 </resources>
