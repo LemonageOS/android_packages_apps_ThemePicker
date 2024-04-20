@@ -22,7 +22,7 @@
 
         <item name="android:statusBarColor">?android:colorPrimary</item>
 
-        <item name="android:navigationBarColor">?android:colorPrimaryDark</item>
+        <item name="android:navigationBarColor">@*android:color/monet_bottom_navigation_bar</item>
         <item name="android:navigationBarDividerColor">@android:color/transparent</item>
 
         <item name="selectableItemBackground">?android:attr/selectableItemBackground</item>
